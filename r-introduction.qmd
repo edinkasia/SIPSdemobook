@@ -1,0 +1,5 @@
+# R Introduction
+
+This is the first paragraph of a new chapter, where we will introduce R.
+
+### What is R?
