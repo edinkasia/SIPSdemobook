@@ -7,7 +7,7 @@ execute:
 book:
   title: My Demo Book
   subtitle: ''
-  author: My Name
+  author: 'Kasia Banas'
   doi: ''
   license: CC-BY
   description: Book Description
