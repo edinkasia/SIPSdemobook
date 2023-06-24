@@ -44,7 +44,7 @@ book:
   chapters:
   - index.qmd
   - instructions.qmd
-  - r-introduction.qmd
+  - r_introduction.qmd
   appendices:
   - webexercises.qmd
   - references.qmd
